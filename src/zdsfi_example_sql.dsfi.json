@@ -6,6 +6,8 @@
   },
   "scalarFunctionName": "ZDSFI_EXAMPLE",
   "engine": "sqlEngine",
-  "amdpName": "ZCL_DSFI_EXAMPLE=>EXECUTE",
-  "autoExposureFlag": true
+  "sqlProperties": {
+    "amdpReference": "ZCL_DSFI_EXAMPLE=>EXECUTE",
+    "autoExposure": true
+  }
 }
